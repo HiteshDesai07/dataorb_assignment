@@ -1,9 +1,13 @@
-# dataorb_assignment
+# DataOrb Assignment
 
-1. # How to run
-    - python assignment_code.py
-        - This command will run with importing the default property value added in the 'data/application.properties', where I've added 2 properties
-        - This property file data explained below.
+# 1. How to run
+    - Clone git repository into your local and run below commands
+        - git clone https://github.com/HiteshDesai07/dataorb_assignment.git
+    - Repository data are now available in your local, now run
+        - cd dataorb_assignment
+        - python assignment_code.py
+            - This command will run with importing the default property value added in the 'data/application.properties', where I've added 2 properties
+            - This property file data explained below.
 
     - The output is easily readed in console with the proper print statements reffered from the assignment file.
 
